@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽Meu nome é Vinicius.<br>📚Cursando Análise e Desenvolvimento de Sistemas no IFSP.<br>⚡Nível de Inglês avançado.
+📚Cursando Análise e Desenvolvimento de Sistemas no IFSP.<br>⚡Nível de Inglês avançado.
 
 
 ## 🌐 Socials:
