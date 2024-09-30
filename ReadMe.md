@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚Cursando Análise e Desenvolvimento de Sistemas no IFSP.<br>⚡Nível de Inglês avançado (cursando)
+📚Cursando Análise e Desenvolvimento de Sistemas no IFSP.<br>⚡Nível de Inglês avançado 
 
 
 ## 🌐 Socials:
