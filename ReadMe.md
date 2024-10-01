@@ -1,5 +1,5 @@
 # Hey, how are you?,I'm Vinicius 👨‍💻
-I'm a Front-end developer
+I am a front-end developer with a passion for website design and graphics. I love creating visually appealing and user-friendly interfaces that provide a great experience for users.
 
 
 
