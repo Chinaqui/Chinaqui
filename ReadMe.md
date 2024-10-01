@@ -1,5 +1,6 @@
-# 💫 About Me:
-📚Cursando Análise e Desenvolvimento de Sistemas no IFSP.<br>⚡Nível de Inglês avançado.
+# Hey, how are you?,I'm Vinicius 👨‍💻
+I'm a Front-end developer
+
 
 
 ## 🌐 Socials:
